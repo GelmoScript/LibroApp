@@ -15,7 +15,7 @@ namespace LibroApp.Repository.Services
         {
 
         }
-        public int Select()
+        public override int Select()
         {
             Console.Clear();
             Console.WriteLine("Seleccine un libro");
