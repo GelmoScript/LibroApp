@@ -17,6 +17,7 @@ namespace LibroApp
             Console.WriteLine("2- Mantenimiento de Autores");
             Console.WriteLine("3- Mantenimiento de Editoriales");
             Console.WriteLine("4- Mantenimiento de Libros");
+            Console.WriteLine("5- Búsqueda de Libros");
             Console.WriteLine("S- Salir");
             Console.WriteLine("");
 
@@ -32,6 +33,8 @@ namespace LibroApp
                     return Routes.EDITORIALS;
                 case "4":
                     return Routes.BOOKS;
+                case "5":
+                    return Routes.SEARCH;
                 case "S":
                     return Routes.EXIT;
                 default:
