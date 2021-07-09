@@ -56,3 +56,4 @@ C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp\obj\Debug\netcoreapp3.1\Lib
 C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp\obj\Debug\netcoreapp3.1\LibroApp.dll
 C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp\obj\Debug\netcoreapp3.1\LibroApp.pdb
 C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp\obj\Debug\netcoreapp3.1\LibroApp.genruntimeconfig.cache
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
