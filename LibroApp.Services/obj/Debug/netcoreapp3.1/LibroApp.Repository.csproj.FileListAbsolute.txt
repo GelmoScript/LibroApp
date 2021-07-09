@@ -1,0 +1,12 @@
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Services\obj\Debug\netcoreapp3.1\LibroApp.Repository.csproj.AssemblyReference.cache
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Services\obj\Debug\netcoreapp3.1\LibroApp.Repository.AssemblyInfoInputs.cache
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Services\obj\Debug\netcoreapp3.1\LibroApp.Repository.AssemblyInfo.cs
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Services\obj\Debug\netcoreapp3.1\LibroApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Services\bin\Debug\netcoreapp3.1\LibroApp.Repository.deps.json
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Services\bin\Debug\netcoreapp3.1\LibroApp.Repository.dll
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Services\bin\Debug\netcoreapp3.1\LibroApp.Repository.pdb
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Services\bin\Debug\netcoreapp3.1\LibroApp.Model.dll
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Services\bin\Debug\netcoreapp3.1\LibroApp.Model.pdb
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Services\obj\Debug\netcoreapp3.1\LibroApp.Repository.csproj.CopyComplete
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Services\obj\Debug\netcoreapp3.1\LibroApp.Repository.dll
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Services\obj\Debug\netcoreapp3.1\LibroApp.Repository.pdb

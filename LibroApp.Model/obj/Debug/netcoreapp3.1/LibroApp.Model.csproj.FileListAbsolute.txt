@@ -1,0 +1,12 @@
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Model\bin\Debug\netcoreapp3.1\LibroApp.Model.deps.json
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Model\bin\Debug\netcoreapp3.1\LibroApp.Model.dll
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Model\bin\Debug\netcoreapp3.1\LibroApp.Model.pdb
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Model\obj\Debug\netcoreapp3.1\LibroApp.Model.AssemblyInfoInputs.cache
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Model\obj\Debug\netcoreapp3.1\LibroApp.Model.AssemblyInfo.cs
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Model\obj\Debug\netcoreapp3.1\LibroApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Model\obj\Debug\netcoreapp3.1\LibroApp.Model.dll
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Model\obj\Debug\netcoreapp3.1\LibroApp.Model.pdb
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Model\obj\Debug\netcoreapp3.1\LibroApp.Model.csproj.AssemblyReference.cache
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Model\bin\Debug\netcoreapp3.1\LibroApp.Model.runtimeconfig.json
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Model\bin\Debug\netcoreapp3.1\LibroApp.Model.runtimeconfig.dev.json
+C:\Users\Sx-G5-Laptop\source\repos\LibroApp\LibroApp.Model\obj\Debug\netcoreapp3.1\LibroApp.Model.genruntimeconfig.cache
