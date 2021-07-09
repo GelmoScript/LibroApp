@@ -7,7 +7,7 @@ using LibroApp.Model.Repositories;
 
 namespace LibroApp.Repository.Services
 {
-    public interface IBaseService<T>
+    public interface IBaseService<T> : ISelectionable
     {
         Task<T> GetById(int id);
         Task<T> Add(T entity);

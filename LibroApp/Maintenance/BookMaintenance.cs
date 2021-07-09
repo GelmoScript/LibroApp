@@ -137,9 +137,9 @@ namespace LibroApp.Maintenance
             Console.Write("Nueva fcha de publicación: ");
             int publishYear = Console.ReadLine().ToInt();
 
-            int categoryId = SelectFrom(categoryService);
-            int editorialId = SelectFrom(editorialService);
-            int authorId = SelectFrom(authorService);
+            int categoryId = categoryService.Select();
+            int editorialId = editorialService.Select();
+            int authorId = authorService.Select();
 
             var book = new Book()
             {

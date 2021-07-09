@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace LibroApp.Repository.Services
 {
-    public interface IAuthorService : IBaseService<Author>, ISelectionable
+    public interface IAuthorService : IBaseService<Author>
     {
        
     }
@@ -16,7 +16,7 @@ namespace LibroApp.Repository.Services
 
         }
 
-        public int Select()
+        public override int Select()
         {
             Console.Clear();
             Console.WriteLine("Seleccine un autor");
@@ -30,5 +30,5 @@ namespace LibroApp.Repository.Services
                 }
             });
         }
-    }
+	}
 }
